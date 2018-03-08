@@ -10,9 +10,9 @@ MongoliaCoin seeks to solve a number of existing issues and this create huge opp
 <li>There is also a lack of an established platform for cryptocurrency that is robust, reliable and scalable and that can accept initial fiat conversion rather than solely cryptocoins.</li>
 All of the above have thus presented barriers to growth and restricted the opportunity to benefit from a share in the rewards of growth from those not currently acutely aware of the country and its operation. <br/>
 
-The launch site is www.mongoliacoin.co
+The launch site is www.mongoliacoin.co </br>
 
 The token release will comprise three stages:
-a. Pre-Sale
-b. ICO stage with variable pricing
-c. Final tokens at full ICO price
+<li>Pre-Sale
+<li>ICO stage with variable pricing
+<li>Final tokens at full ICO price
